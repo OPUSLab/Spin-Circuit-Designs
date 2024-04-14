@@ -4,3 +4,7 @@ Spin-circuit design examples from the paper "Connecting physics to systems with 
 
 The use of code and reproduction of data is subject to approval by the authors and requires appropriate citation of the referenced paper.
 - Link to paper here - \
+
+
+
+For more details and other source codes, also visit:  [https://nanohub.org/groups/spintronics]
