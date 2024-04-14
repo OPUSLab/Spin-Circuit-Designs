@@ -1,9 +1,7 @@
 # p-bit design with stochastic MTJs 
 This  _GitHub repository_  provides the spin-circuit that emulates probabilsitic bit (p-bit) build on 3-transistor 1-sMTJ topology. The stochastic MTJ (sMTJ) used in this design consists of the [proposed](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.044049) double-free sMTJ, simulated for a 10 nm diameter in-plane-easy-axis circular magnet using comprehensive spin circuit model. The device model is then combined with advanced predictive technology models ([PTM](https://dl.acm.org/doi/10.1145/1229175.1229176)) for 14 nm FinFET transistors to achieve 3T/1M topology. 
 
-For more details and source codes, also visit:  [https://nanohub.org/groups/spintronics]
-
-See the link for the related paper:  [https://arxiv.org/abs/2311.06642]
+See the link for the related paper, MTJ design with two synthetic antiferromagnetic layers (4 ferromagnets) using the same approach:  [https://arxiv.org/abs/2311.06642]
 
 
 # Simulation Files
