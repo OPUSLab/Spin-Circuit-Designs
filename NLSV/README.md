@@ -10,6 +10,14 @@ HSPICE Files:
  - <code>NM.sp</code>: Normal Metal (NM) Module.
  - <code>FM_NM.sp</code>: Interface Module describing the spin transport in a magnet, utilizing the dynamics at the interface between a ferromagnet and a normal metal.
 
+The flowchart of the spin interaction inside the circuit modules, which is used to simulate the LBM:
+```mermaid
+graph LR
+    subgraph SG1 [" "]
+        A((sLLG Magnetization)) -- magnetization --> B[Spin Transport]
+        B -- spin current --> A 
+    end
+```
 
 ## How to run the simulation
 <div align="justify">
