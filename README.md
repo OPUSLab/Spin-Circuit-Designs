@@ -1,4 +1,4 @@
-This page shows source codes for some of the spin-circuits from the paper "Connecting physics to systems with modular spin-circuits" [arXiv link].
+This page shows source codes for some of the spin-circuits from the paper "Connecting physics to systems with modular spin-circuits" [arXiv link, TBD].
 
 All simulation files include the parameters that are used in the paper. 
 
