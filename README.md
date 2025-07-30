@@ -4,3 +4,5 @@ All simulation files include the parameters that are used in the paper: [https:/
 
 For more details and other spin-circuits and source codes, please visit:  [https://nanohub.org/groups/spintronics]
 
+<img width="3069" height="2009" alt="Image" src="https://github.com/user-attachments/assets/e33f14b0-6268-42d1-b84d-dbe0077a8aad" />
+
