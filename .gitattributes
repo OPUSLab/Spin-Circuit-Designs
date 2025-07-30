@@ -1,2 +1,7 @@
+*.cir linguist-language=SPICE
+*.sp linguist-language=SPICE
 *.m linguist-language=MATLAB
-*.sp linguist-language=Spice
+*.nb linguist-language=Mathematica
+*.wl linguist-language=Mathematica
+
+*.t linguist-language=Text
