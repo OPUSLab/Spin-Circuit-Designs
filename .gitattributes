@@ -1,1 +1,5 @@
+* linguist-vendored
+*.js linguist-vendored=false
 
+*.m linguist-language=MATLAB
+*.sp linguist-language=Spice
