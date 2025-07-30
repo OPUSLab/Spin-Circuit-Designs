@@ -1,7 +1,51 @@
-*.cir linguist-language=SPICE
-*.sp linguist-language=SPICE
+# MATLAB
 *.m linguist-language=MATLAB
-*.nb linguist-language=Mathematica
-*.wl linguist-language=Mathematica
 
+# Mathematica
+*.wl linguist-language=Mathematica
+*.nb linguist-language=Mathematica
+
+# SPICE (circuit simulation)
+*.sp linguist-language=SPICE
+*.cir linguist-language=SPICE
+
+# SystemVerilog
+*.sv linguist-language=SystemVerilog
+*.svh linguist-language=SystemVerilog
+
+# Verilog
+*.v linguist-language=Verilog
+
+# VHDL
+*.vhdl linguist-language=VHDL
+*.vhd linguist-language=VHDL
+
+# Python
+*.py linguist-language=Python
+
+# C
+*.c linguist-language=C
+*.h linguist-language=C
+
+# C++
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+
+# BitBake
+*.bb linguist-language=BitBake
+*.bbappend linguist-language=BitBake
+
+# Ignore files mistakenly identified as Raku:
 *.t linguist-language=Text
+*.rakumod linguist-language=Text
+*.raku linguist-language=Text
+
+# Ignore binary, images, PDFs, documents
+*.pdf linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.svg linguist-vendored
+*.gif linguist-vendored
+*.docx linguist-vendored
+*.xlsx linguist-vendored
